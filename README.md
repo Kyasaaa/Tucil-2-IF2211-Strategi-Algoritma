@@ -16,7 +16,7 @@ Library:
 - math
 - random
 
-Tuliskan perintah pip install `nama library` di terminal untuk menginstal library tersebut.
+Tuliskan perintah pip install `nama library` di terminal untuk menginstall library tersebut.
 
 # Cara Penggunaan
 
@@ -25,5 +25,5 @@ Tuliskan perintah pip install `nama library` di terminal untuk menginstal librar
 
 # Identitas Author
 
-Nama : Muhammad Akyas David Al Aleey
-NIM : 13520125
+### Nama : Muhammad Akyas David Al Aleey
+### NIM : 13520125
